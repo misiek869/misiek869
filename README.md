@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">An aspiring junior frontend developer from Poland. I’m in the process of changing career from car detailing business owner to programming. Primarily focusing on a TypeScript / JavaScript stack. I have experience building projects in React and full stack web applications with Next.js.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=misiek869" alt="misiek869" /></a> </p>
-
 - 🔭 I’m currently working on **get my first job in IT**
 
 - 🌱 I’m currently learning **React, TypeScript**
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/michał gawlik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał gawlik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/michał-gawlik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał-gawlik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

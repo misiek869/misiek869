@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">I am an aspiring junior frontend developer from Poland, currently transitioning from being a car detailing business owner to a career in programming. I am primarily focusing on a TypeScript/JavaScript stack and have experience in building projects using React as well as full-stack web applications with Next.js.</h3>
 
-- 🔭 I’m currently working on **to get my first job in IT**
+- 🔭 I’m currently working on **getting my first job in IT**
 
 - 🌱 I’m currently learning **React, TypeScript**
 

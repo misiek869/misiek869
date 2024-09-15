@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">An aspiring junior frontend developer from Poland. I’m in the process of changing career from car detailing business owner to programming. Primarily focusing on a TypeScript / JavaScript stack. I have experience building projects in React and full stack web applications with Next.js.</h3>
+<h3 align="center">I am an aspiring junior frontend developer from Poland, currently transitioning from being a car detailing business owner to a career in programming. I am primarily focusing on a TypeScript/JavaScript stack and have experience in building projects using React as well as full-stack web applications with Next.js.</h3>
 
-- 🔭 I’m currently working on **get my first job in IT**
+- 🔭 I’m currently working on **to get my first job in IT**
 
 - 🌱 I’m currently learning **React, TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://misiek869.github.io/portfolio_tailwind/](https://misiek869.github.io/portfolio_tailwind/)
 
 - 📫 How to reach me **gawlik.zator@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/micha%c5%82-gawlik-7715ab25b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micha%c5%82-gawlik-7715ab25b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/m-gawlik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-gawlik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

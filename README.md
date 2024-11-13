@@ -14,7 +14,7 @@
 
 <h3 align="left">Visit my website and see my work:</h3>
 <p align="left">
-<a href="https://michal-gawlik.pl/" target="blank" style="display:none">Portfolio Website</a>
+<a href="https://michal-gawlik.pl/" target="blank">Portfolio Website</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -14,7 +14,7 @@
 
 <h3 align="left">Visit my website and see my work:</h3>
 <p align="left">
-<a href="https://michal-gawlik.pl/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://github.com/misiek869/assets/blob/main/favicon.png)" alt="m-gawlik" height="30" width="40" /></a>
+<a href="https://michal-gawlik.pl/" target="blank"><img align="center" src="https://github.com/misiek869/assets/blob/main/favicon.png" alt="m-gawlik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

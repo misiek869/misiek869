@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **getting my first job in IT**
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 I’m currently focusing on **React, TypeScript**
 
 - 📫 How to reach me **gawlik.zator@gmail.com**
 
